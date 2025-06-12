@@ -2,5 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student 🇷🇺</h3>
 <div id="header" align="center">
-  <img src="https://ru.pinterest.com/pin/99501473002753868/.gif"/>
+  <img src="https://ru.pinterest.com/pin/99501473002753868/.gif"width="100"/>
 </div>
