@@ -9,7 +9,8 @@
 <h3 align="left"> - :computer: I am interested in neural networks and design.
 <h3 align="left"> - :open_book: I like to study new technologies and apply them in practice.
 <h1 align="left"> :hammer_and_wrench: Languages and Tools :
-<div>
+
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
