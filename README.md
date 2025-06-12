@@ -4,3 +4,10 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AzZ3B1Nm0xa240MWgzMjlubnU0c2Nqc3JhYTh1MmRrM3c0ZDk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cxPtMDHG8Ljry/giphy.gif"width="1000"/>
 </div>
+### :new_moon_with_face: About Me :
+
+- :mortar_board: I am a second year student of Information Systems.
+
+- :computer: I am interested in neural networks and design.
+
+- :open_book: I like to study new technologies and apply them in practice.
